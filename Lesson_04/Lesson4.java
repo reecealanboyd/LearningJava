@@ -1,7 +1,6 @@
 public class Lesson4 {
 
-  public static void Main(String[] args)
-  {
+  public static void main(String[] args) {
     // for loops
     // while loops
     // do while loops
