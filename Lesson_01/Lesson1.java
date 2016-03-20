@@ -1,5 +1,5 @@
 // public means it is available to all other classes. Everyone should be able to execute this.
-public class Main {
+public class Lesson1 {
     // How to make a class variable that's available to any other method defined in this class.
     static String myString = "This is my string.";
     // How to make a constant class variable

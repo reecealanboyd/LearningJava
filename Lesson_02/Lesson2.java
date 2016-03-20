@@ -5,7 +5,7 @@ import java.util.Scanner;   // to accept user input
 // import java.util.*;
 
 // Note: name must be same as Java file
-public class Main {
+public class Lesson2 {
     // System.in is the user's keyboard
     static Scanner userInput = new Scanner(System.in);
 

@@ -1,4 +1,4 @@
-public class Main {
+public class Lesson3 {
 
     public static void main(String[] args) {
         // random number between 0 and 49
